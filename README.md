@@ -1,8 +1,11 @@
 ### Hi 👋
 
-🔭 Currently **working** on [vivo](https://github.com/ModelOriented/vivo) 
-🌱 Currently **learning** [Deep Learning](https://d2l.ai/)
-📫 Contact me via [LinkedIn](https://www.linkedin.com/in/anna-kozak-a45687116/)
+- 🔭 Currently **working** on [vivo](https://github.com/ModelOriented/vivo) 
+
+- 🌱 Currently **learning** [Deep Learning](https://d2l.ai/)
+
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/anna-kozak-a45687116/)
+
 
 Student in Mathematics and specialisation Mathematical Statistics and Data Analysis at Warsaw University of Technology :mortar_board:
 
