@@ -13,4 +13,4 @@ Working as a Research Software Engineer in [MI2DataLab](https://mi2-warsaw.githu
 
 My professional interests include modeling, interpretable machine learning, and data visualization. More about my [experiences](https://github.com/kozaka93/resume/blob/main/README.md).
 
-In addition, I draw, my [graphics](https://github.com/kozaka93/DataScienceGraphics) for Data Science 🎨
+In addition, I draw, my [graphics](https://github.com/kozaka93/DataScienceGraphics) for Data Science 🎨 and publish posts as part of the [ResponsibleML](https://medium.com/responsibleml) blog 📝 
