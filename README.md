@@ -1,13 +1,13 @@
 ### Hi 👋
 
-- 🔭 Currently **working** on [vivo](https://github.com/ModelOriented/vivo) 
+- :mortar_board: Currently **teaching** at Warsaw University of Technology
+  - [*Introduction to exploratory data analysis*](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis)
+  - [*Case Study - XAI*](https://github.com/mini-pw/2021L-WB-XAI-1)
 
-- 🌱 Currently **learning** [Deep Learning](https://d2l.ai/)
-
-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/anna-kozak-a45687116/)
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/kozakanna/)
 
 
-I graduated with a master's degree in mathematics, specialization: *Mathematical Statistics and Data Analysis* at Warsaw University of Technology :mortar_board:
+I graduated with a master's degree in mathematics, specialization: *Mathematical Statistics and Data Analysis* at Warsaw University of Technology 
 
 Working as a Research Software Engineer in [MI2DataLab](https://mi2-warsaw.github.io/) and  Senior Data Scientist at [Quantee](https://quantee.ai/)
 
