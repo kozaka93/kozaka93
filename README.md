@@ -2,8 +2,8 @@
 
 - :mortar_board: Currently **teaching** at Warsaw University of Technology
   - [*Data Visualization Techniques*](https://github.com/mini-pw/2022Z-DataVisualizationTechniques)   
-  - [*Introduction to exploratory data analysis*](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis)
-  - [*Case Study - XAI*](https://github.com/mini-pw/2021L-WB-XAI-1)
+  - [*Introduction to exploratory data analysis*](https://github.com/mini-pw/2022L-ExploratoryDataAnalysis)
+  - [*Case Study*](https://github.com/mini-pw/2022L-WB-M1)
 
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/kozakanna/)
 
