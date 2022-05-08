@@ -10,7 +10,7 @@
 
 I graduated with a master's degree in mathematics, specialization: *Mathematical Statistics and Data Analysis* at Warsaw University of Technology 
 
-Working as a Research and teaching assistant in [MI2DataLab](https://mi2.ai) and  Senior Data Scientist at [Quantee](https://quantee.ai/)
+Working as a Research and teaching assistant in [MI2DataLab](https://mi2.ai).
 
 My professional interests include modeling, interpretable machine learning, and data visualization. 
 
