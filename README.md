@@ -10,7 +10,6 @@ I'm working as Research Assistant at Warsaw University of Technology.
 
 I’m a member of [MI²DataLab](https://www.mi2.ai).
 - :clipboard: Currently **working**:
-	- COO at [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) project
 	- [forester](https://github.com/ModelOriented/forester) - project co-ordinator and supervisor BSc thesis
 	
 
@@ -22,4 +21,4 @@ In addition, I draw, my [graphics](https://github.com/kozaka93/DataScienceGraphi
 📫 Reach me:
 - [LinkedIn](https://www.linkedin.com/in/kozakanna/)
 - [Twitter](https://twitter.com/kozaka93)
-- or by email:  [anna.kozak@pw.edu.pl](mailto:anna.kozak@pw.edu.pl)
+- [anna.kozak@pw.edu.pl](mailto:anna.kozak@pw.edu.pl)
