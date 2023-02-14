@@ -4,8 +4,8 @@ I'm working as Research Assistant at Warsaw University of Technology.
 
 - :mortar_board: Currently **teaching**:
   - [*Data Visualization Techniques*](https://github.com/MI2-Education/2023Z-DataVisualizationTechniques)   
-  - [*Introduction to exploratory data analysis*](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)
-  - [*ML Case Study*](https://github.com/MI2-Education/2022L-WB-ML-1)
+  - [*Introduction to exploratory data analysis*](https://github.com/MI2-Education/2023L-ExploratoryDataAnalysis)
+  - [*Programming and data analysis advanced in R*](https://github.com/MI2-Education/2023L-AdvancedR)
 
 
 I’m a member of [MI²DataLab](https://www.mi2.ai).
