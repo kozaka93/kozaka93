@@ -8,9 +8,8 @@ I'm working as Research Assistant at Warsaw University of Technology.
   - [*Programming and data analysis advanced in R*](https://github.com/MI2-Education/2023L-AdvancedR)
 
 
-I’m a member of [MI²DataLab](https://www.mi2.ai).
 - :clipboard: Currently **working**:
-	- [forester](https://github.com/ModelOriented/forester) - project co-ordinator and supervisor BSc thesis
+	- [forester](https://github.com/ModelOriented/forester) - project co-ordinator 
 	
 
 :arrow_right: My professional interests include modeling, interpretable machine learning, and data visualization. 
