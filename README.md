@@ -6,6 +6,7 @@ I'm working as Research Assistant at Warsaw University of Technology.
   - [*Data Visualization Techniques*](https://github.com/MI2-Education/2023Z-DataVisualizationTechniques)   
   - [*Introduction to exploratory data analysis*](https://github.com/MI2-Education/2023L-ExploratoryDataAnalysis)
   - [*Programming and data analysis advanced in R*](https://github.com/MI2-Education/2023L-AdvancedR)
+  - [*Mathematical Statistics*](https://github.com/kozaka93/2023L-StatystykaMatematyczna)
 
 
 - :clipboard: Currently **working**:
