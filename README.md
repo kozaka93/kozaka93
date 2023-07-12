@@ -12,12 +12,14 @@ I'm working as Research Assistant at Warsaw University of Technology.
 
 - :clipboard: Currently **working**:
 	- [forester](https://github.com/ModelOriented/forester) - project co-ordinator 
-	- [toRpEDA](https://github.com/kozaka93/toRpEDA) - project co-ordinator 
+	- [toRpEDA](https://github.com/kozaka93/toRpEDA) - project co-ordinator
+ 	- [cattleia] - project co-ordinator
+    	- [liltab] - project co-ordinator
 	
 
 :arrow_right: My professional interests include modeling, interpretable machine learning, and data visualization. 
 
-In addition, I draw, my [graphics](https://github.com/kozaka93/DataScienceGraphics) for Data Science 🎨 and publish posts as part of the [ResponsibleML](https://medium.com/responsibleml) blog 📝 
+In addition, I draw, my [graphics](https://github.com/kozaka93/DataScienceGraphics) for Data Science 🎨 and publish posts on [Medium](https://medium.com/@kozaka) 📝 
 
 
 📫 Reach me:
