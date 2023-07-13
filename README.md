@@ -13,7 +13,7 @@ I'm working as Research Assistant at Warsaw University of Technology.
 - :clipboard: Currently **working**:
 	- [forester](https://github.com/ModelOriented/forester) - project co-ordinator 
 	- [toRpEDA](https://github.com/kozaka93/toRpEDA) - project co-ordinator
- - cattleia - project co-ordinator 
+ 	- cattleia - project co-ordinator 
 	
 
 :arrow_right: My professional interests include modeling, interpretable machine learning, and data visualization. 
