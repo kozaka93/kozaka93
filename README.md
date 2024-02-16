@@ -6,6 +6,7 @@ I'm working as Research Assistant at Warsaw University of Technology.
   - [*Introduction to exploratory data analysis*](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis)
   - [*Mathematical Statistics*](https://github.com/kozaka93/2024L-MathematicalStatistics)
   - [*Advanced Machine Learning Methods*](https://github.com/kozaka93/2024L-AdvancedML)
+  - [*Advanced Machine Learning*](https://github.com/kozaka93/2024L-DSAdvancedML)
   - [*Introduction to machine learning*](https://github.com/kozaka93/2023Z-MachineLearning)
   - [*Automated Machine Learning*](https://github.com/kozaka93/2023Z-AutoML)
   - [*Data Visualization Techniques*](https://github.com/kozaka93/2023Z-DataVisualizationTechniques)   
