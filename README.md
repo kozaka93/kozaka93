@@ -3,8 +3,8 @@
 I'm working as Research Assistant at Warsaw University of Technology.
 
 - :mortar_board: Currently **teaching**:
-  - [*Data Visualization Techniques*](https://github.com/kozaka93/2024Z-DataVisualizationTechniques)
-  - [*Introduction to machine learning*](https://github.com/kozaka93/2024Z-MachineLearning)
+  - [*Data Visualization Techniques*](https://github.com/kozaka93/2025Z-DataVisualizationTechniques)
+  - [*Introduction to machine learning*](https://github.com/kozaka93/2025Z-MachineLearning)
   - [*Automated Machine Learning*](https://github.com/kozaka93/2024Z-AutoML)
   - [*Introduction to exploratory data analysis*](https://github.com/kozaka93/2025L-ExploratoryDataAnalysis)
   - [*Mathematical Statistics*](https://github.com/kozaka93/2025L-MathematicalStatistics)
