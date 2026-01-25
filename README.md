@@ -14,6 +14,7 @@ I'm working as Research Assistant at Warsaw University of Technology.
 
 
 - :clipboard: Currently **working**:
+  - [ficaria](https://pypi.org/project/ficaria/) - project co-ordinator and supervisor
   - [forester](https://github.com/ModelOriented/forester) - project co-ordinator and supervisor
   - [toRpEDA](https://github.com/kozaka93/toRpEDA) - project co-ordinator
   - [cattleia](https://github.com/malwina0/cattleia) - project co-ordinator and supervisor
