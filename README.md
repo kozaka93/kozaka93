@@ -3,11 +3,11 @@
 I'm working as Research Assistant at Warsaw University of Technology.
 
 - :mortar_board: Currently **teaching**:
-  - [*Introduction to exploratory data analysis*](https://github.com/kozaka93/2026L-ExploratoryDataAnalysis)
+  - [*Introduction to exploratory data analysis*](https://github.com/kozaka93/2026L-ExploratoryDataAnalysis) 
+  - [*Mathematical Statistics*](https://github.com/kozaka93/2026L-MathematicalStatistics)
   - [*Data Visualization Techniques*](https://github.com/kozaka93/2025Z-DataVisualizationTechniques)
   - [*Introduction to machine learning*](https://github.com/kozaka93/2025Z-MachineLearning)
   - [*Automated Machine Learning*](https://github.com/woznicak/2025Z-AutoML)
-  - [*Mathematical Statistics*](https://github.com/kozaka93/2025L-MathematicalStatistics)
   - [*Advanced Machine Learning Methods*](https://github.com/kozaka93/2024L-AdvancedML)
   - [*Advanced Machine Learning*](https://github.com/kozaka93/2024L-DSAdvancedML)
   - [*Programming and data analysis advanced in R*](https://github.com/MI2-Education/2023L-AdvancedR)
